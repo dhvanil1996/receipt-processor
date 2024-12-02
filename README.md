@@ -1,6 +1,6 @@
 # Receipt Processor Instructions 
+- Copy, Paste, and Run these commands one line at a time in your local machine 
 
-# Copy, Paste, and Run these commands one line at a time in your local machine 
 # Running Locally: 
 - git clone https://github.com/dhvanil1996/receipt-processor.git
 - cd receipt-processor
